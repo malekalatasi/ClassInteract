@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Class Interact</string>
+    <string name="title_activity_class_list">Class List</string>
+    <string name="title_activity_questions_list">Questions</string>
+    <string name="title_activity_question">Comments</string>
+    <string name="add_question">Add Question</string>
+    <string name="add_new_question">ADD NEW QUESTION</string>
+    <string name="enter_question_here">Enter question here</string>
+    <string name="add_new_comment">ADD NEW COMMENT</string>
+    <string name="add">Add</string>
+    <string name="welcome">Welcome!</string>
+    <string name="quote">The only stupid question is the question that is never asked.</string>
+    <string name="enter_comment_here">Enter comment here</string>
+    <string name="server_client_id">YOUR_SERVER_CLIENT_ID</string>
+    <string name="sign_in">Sign in</string>
+    <string name="upvote">Upvote</string>
+</resources>
